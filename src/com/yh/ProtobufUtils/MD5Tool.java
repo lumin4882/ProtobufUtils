@@ -19,6 +19,7 @@ public class MD5Tool {
             md5code = "0" + md5code;
         }
        System.out.println("success");
+       
         return md5code;
     }
 	public static void main(String[] args) {
